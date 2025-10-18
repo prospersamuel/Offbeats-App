@@ -7,7 +7,7 @@ Built with Electron + Node.js, it supports YouTube and other sources natively �
 
 ## 🚀 Download Latest Version
 
-👉 [**Click here to get the latest release**](https://github.com/prospersamuel/offbeats/releases/latest)
+👉 [**Click here to get the latest release**](https://github.com/prospersamuel/Offbeats-App/releases/tag/v1.0.0)
 
 Available for:
 - macOS (`.dmg`)
